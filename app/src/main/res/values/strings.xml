@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidDevChallenge</string>
+    <string name="days">DAYS</string>
+    <string name="hours">HOURS</string>
+    <string name="minutes">MINUTES</string>
+    <string name="seconds">SECONDS</string>
+    <string name="unlock_count_down_label">Your phone will lock in</string>
+    <string name="phone_locked_label">Your phone is locked</string>
+    <string name="something_went_wrong">Something went wrong, contact admin</string>
+</resources>
